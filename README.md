@@ -7,10 +7,10 @@ Watson Data Platform (WDP) Quick Start guide.
 ### Data Science Experience (DSX)
 Solve your toughest data challenges with the best tools and the latest expertise in a social environment built by data scientists.
 
-- Community: Harness the power of the community. Check out the shared data sets, notebooks, and articles in our growing set of resources
-- Jupyter Notebooks: Create and collaborate on Python, R, and Scala notebooks that contain code and visualizations.
-- RStudio: Jumpstart your R experience with a free, open-source RStudio tool.
-- Machine Learning (Coming Soon): Create, train and deploy machine learning models.
+- **Community**: Harness the power of the community. Check out the shared data sets, notebooks, and articles in our growing set of resources
+- **Jupyter Notebooks**: Create and collaborate on Python, R, and Scala notebooks that contain code and visualizations.
+- **RStudio**: Jumpstart your R experience with a free, open-source RStudio tool.
+- **Machine Learning** (Coming Soon): Create, train and deploy machine learning models.
 
 
 ### URL
