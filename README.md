@@ -4,9 +4,10 @@ Watson Data Platform Quick Start guide.
 
 
 # DSX
-#### URL: http://datascience.ibm.com
+### URL: 
+http://datascience.ibm.com
 
-#### Exercise
+### Exercise
 **My Fisrt Notebook**
 
 A simple example to get started with the notebooks on DSX. The goal is to create a new notebook from scratch and add the following cells. 
