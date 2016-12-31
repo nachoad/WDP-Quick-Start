@@ -29,7 +29,7 @@ The goal is to create a new notebook from scratch and add the following cells.
 6. Click on create button.
 7. Open the next ipynb to see the final notebook you shuold have to obtain.
 8. For help, see the plain text file.
-9. SDFDS
+
 
 - [`MyFirstNotebook.ipynb`](https://github.com/nachoad/WDP-Quick-Start/blob/master/python/MyFirstNotebook.ipynb): Here you can see the notebook **you have to obtain**. *ipynb* is the Jupyter notebook format.  
 - [`MyFirstNotebook-in-plain-text.py`](https://github.com/nachoad/WDP-Quick-Start/blob/master/python/MyFirstNotebook-plain.py): In plain text is easy to copy/paste code and text.
