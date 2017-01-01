@@ -13,13 +13,16 @@ Solve your toughest data challenges with the best tools and the latest expertise
 - **Machine Learning** (Coming Soon): Create, train and deploy machine learning models.
 
 
+
 ### URL
 http://datascience.ibm.com
+
+
 
 ### Exercise
 My Fisrt Notebook: A simple example to get started with the notebooks on DSX.
 
-The goal is to create a new notebook from scratch and add the following cells. 
+The goal is to create a new notebook from scratch and add the following cells.
 
 1. On DSX (datascience.ibm.com), go to Projects.
 2. Click on create a new notebook.
@@ -27,8 +30,9 @@ The goal is to create a new notebook from scratch and add the following cells.
 4. Write a short description.
 5. Select `Python 2.7` as language, and `Spark 2.0`.
 6. Click on create button.
-7. Open the next ipynb to see the final notebook you shuold have to obtain.
+7. Open the next `ipynb` to see the final notebook you should have to obtain.
 8. For help, see the plain text file.
+
 
 
 - [`MyFirstNotebook.ipynb`](https://github.com/nachoad/WDP-Quick-Start/blob/master/python/MyFirstNotebook.ipynb): Here you can see the notebook **you have to obtain**. *ipynb* is the Jupyter notebook format.  
