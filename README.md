@@ -40,7 +40,9 @@ The goal is to create a new notebook from scratch and add the following cells.
 
 
 # Data
-The `UNdata_population_total.csv` file that is in the /data folder has been downloaded from:
+The `cars.csv` file contained on the /data folder, is a common file example in R (called as mtcars.csv). Has been downloaded from: https://vincentarelbundock.github.io/Rdatasets/datasets.html 
+
+The `UNdata_population_total.csv` file contained on the /data folder has been downloaded from:
 https://apsportal.ibm.com/exchange/public/entry/view/889ca053a19986a4445839358a91963e
 
 Terms and Conditions of use:
