@@ -1,6 +1,8 @@
 # WDP Quick Start
 Watson Data Platform (WDP) Quick Start guide.
 
+You can download the **PDF** from this link (or see online on the /pdf-guide folder): https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_start.pdf
+
 
 
 # DSX
@@ -40,7 +42,7 @@ The goal is to create a new notebook from scratch and add the following cells.
 
 
 # Data
-The `cars.csv` file contained on the /data folder, is a common file example in R (called as mtcars.csv). Has been downloaded from: https://vincentarelbundock.github.io/Rdatasets/datasets.html 
+The `cars.csv` file contained on the /data folder, is a common file example in R (called as mtcars.csv). Has been downloaded from: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
 The `UNdata_population_total.csv` file contained on the /data folder has been downloaded from:
 https://apsportal.ibm.com/exchange/public/entry/view/889ca053a19986a4445839358a91963e
