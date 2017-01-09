@@ -37,3 +37,11 @@ The goal is to create a new notebook from scratch and add the following cells.
 
 - [`MyFirstNotebook.ipynb`](https://github.com/nachoad/WDP-Quick-Start/blob/master/python/MyFirstNotebook.ipynb): Here you can see the notebook **you have to obtain**. *ipynb* is the Jupyter notebook format.  
 - [`MyFirstNotebook-in-plain-text.py`](https://github.com/nachoad/WDP-Quick-Start/blob/master/python/MyFirstNotebook-plain.py): In plain text is easy to copy/paste code and text.
+
+
+# Data
+The `UNdata_population_total.csv` file that is in the /data folder has been downloaded from:
+https://apsportal.ibm.com/exchange/public/entry/view/889ca053a19986a4445839358a91963e
+
+Terms and Conditions of use:
+http://data.un.org/Host.aspx?Content=UNdataUse
