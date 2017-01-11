@@ -58,9 +58,9 @@ http://data.un.org/Host.aspx?Content=UNdataUse
 
 WoW labs (Oct. 2016)
 
-Part 1. Root Cause Analysis (Interactive Analytics) [URL here](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/interactive-analytics/)
+- Part 1. Root Cause Analysis (Interactive Analytics) [URL here](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/interactive-analytics/)
 
-Part 2. Create Resolution (Machine Learning) [URL here](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/machinelearning/)
+- Part 2. Create Resolution (Machine Learning) [URL here](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/machinelearning/)
 
 
 
