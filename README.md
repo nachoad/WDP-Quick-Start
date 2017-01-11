@@ -65,4 +65,4 @@ IBM DataFirst Launch event (Oct. 2016) [URL here](https://github.com/ibmdatawork
 
 
 
-Spark Summit Demo (Jun. 2011) [URL here](https://github.com/IBMDataScience/SparkSummitDemo)
+Spark Summit Demo (Jun. 2016) [URL here](https://github.com/IBMDataScience/SparkSummitDemo)
