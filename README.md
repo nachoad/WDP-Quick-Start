@@ -1,7 +1,7 @@
 # WDP Quick Start guide
 Watson Data Platform (WDP) Quick Start guide.
 
-> *The purpose of this document is to have a quick start guide on the platform.* 
+> *The purpose of this document is to have a quick start guide on the platform.*
 > *This guide does not cover all the features, it's just an introduction.*
 
 You can download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_start.pdf) (or go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online).
@@ -52,3 +52,16 @@ https://apsportal.ibm.com/exchange/public/entry/view/889ca053a19986a4445839358a9
 
 Terms and Conditions of use:
 http://data.un.org/Host.aspx?Content=UNdataUse
+
+
+# More DSX Examples
+
+WoW labs (Oct. 2016)
+
+Part 1. Root Cause Analysis (Interactive Analytics) [URL here](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/interactive-analytics/)
+
+Part 2. Create Resolution (Machine Learning) [URL here](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/machinelearning/)
+
+
+
+Spark Summit Demo (Jun. 2011) [URL here](https://github.com/IBMDataScience/SparkSummitDemo)
