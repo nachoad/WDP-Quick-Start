@@ -5,7 +5,11 @@ Watson Data Platform (WDP) Quick Start guide.
 > *This guide does not cover all the features, it's just an introduction.*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 You can download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_start.pdf) (or go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online).
+=======
+You can download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_Start_guide.pdf) (or go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online).
+>>>>>>> origin/master
 =======
 You can download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_Start_guide.pdf) (or go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online).
 >>>>>>> origin/master
