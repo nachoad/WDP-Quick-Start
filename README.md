@@ -1,8 +1,8 @@
 # WDP Quick Start guide + DSX Hands-on
 
-## Watson Data Platform (WDP) is an integrated platform of tools, services and data that helps companies accelerate their shift to become data-driven organizations.
+## IBM Watson Data Platform (WDP) is an integrated platform of tools, services and data that helps companies accelerate their shift to become data-driven organizations.
 
-For more information, please visit [the official page](https://www.ibm.com/analytics/us/en/watson-data-platform/platform.html) of **Watson Data Platform**, or contact to an IBM salesperson.
+For more information, please visit [the official page](https://www.ibm.com/analytics/us/en/watson-data-platform/platform.html) of **IBM Watson Data Platform**, or contact to an IBM salesperson.
 
 # Disclaimer
 _The purpose of this document is to have a quick start guide on the platform. More specifically, this guide focuses on a user experience of WDP: Data Science Experience (DSX). Keep in mind that this guide does not cover all the features, it's just an introduction._
@@ -38,7 +38,7 @@ _Solve your toughest data challenges with the best tools and the latest expertis
 
 
 
-### Exercise
+### Hands-on exercise
 My First Notebook: A simple example to get started with the notebooks on DSX.
 
 The goal is to create a new notebook from scratch and add the following cells.
