@@ -1,4 +1,4 @@
-# WDP Quick Start guide + DSX Hands On
+# WDP Quick Start guide + DSX Hands-on
 
 ## Watson Data Platform (WDP) is an integrated platform of tools, services and data that helps companies accelerate their shift to become data-driven organizations.
 
