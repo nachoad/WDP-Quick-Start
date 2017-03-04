@@ -11,9 +11,9 @@ _This is not an official guide._
 
 # Download
 
-The best way to follow the guide, is to download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_Start_guide.pdf). 
+The best way to follow the guide, is to download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_WDP_Quick_Start%2BDSX_Hands-on.pdf). 
 
-You can also go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online.
+You can also go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/blob/master/pdf-guide/IBM_WDP_Quick_Start%2BDSX_Hands-on.pdf) folder click on the PDF and see it online.
 
 
 
