@@ -1,17 +1,28 @@
 # WDP Quick Start guide
-Watson Data Platform (WDP) Quick Start guide.
 
-> *The purpose of this document is to have a quick start guide on the platform.*
-> *This guide does not cover all the features, it's just an introduction.*
+## Watson Data Platform (WDP) is an integrated platform of tools, services and data that helps companies accelerate their shift to become data-driven organizations.
+
+# Important note
+_The purpose of this document is to have a quick start guide on the platform. More specifically, this guide focuses on a user experience of WDP: Data Science Experience (DSX). Keep in mind that this guide does not cover all the features, it's just an introduction._
+
+_This is not an official guide._
+
+# Download
+
+The best way to follow the guide, is to download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_Start_guide.pdf). 
+
+You can also go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online.
 
 
-You can download the **PDF** from [this link](https://github.com/nachoad/WDP-Quick-Start/raw/master/pdf-guide/IBM_Watson_Data_Platform_%E2%80%93_Quick_Start_guide.pdf) (or go to the [`/pdf-guide`](https://github.com/nachoad/WDP-Quick-Start/tree/master/pdf-guide) folder click on the PDF and see it online).
 
+# Data Science Experience
+### Intro to Data Science Experience (DSX)
+IBM Data Science Experience is an integrated development environment offering a suite of tools and capabilities that enable **data scientists** to accelerate their **productivity**.
 
+DSX allows to analyze data using RStudio and Jupyter notebooks in a configured, collaborative environment that includes IBM value-adds, such as managed Spark. RStudio is integrated in the offering and provides a development environment for working with R.
+DSX provides Jupyter notebooks which are a web-based environment for interactive computing.
 
-# DSX
-### Data Science Experience (DSX)
-Solve your toughest data challenges with the best tools and the latest expertise in a social environment built by data scientists.
+_Solve your toughest data challenges with the best tools and the latest expertise in a social environment built by data scientists._
 
 - **Community**: Harness the power of the community. Check out the shared data sets, notebooks, and articles in our growing set of resources
 - **Jupyter Notebooks**: Create and collaborate on Python, R, and Scala notebooks that contain code and visualizations.
@@ -21,7 +32,7 @@ Solve your toughest data challenges with the best tools and the latest expertise
 
 
 ### URL
-http://datascience.ibm.com
+#### [http://datascience.ibm.com](http://datascience.ibm.com)
 
 
 
@@ -46,12 +57,12 @@ The goal is to create a new notebook from scratch and add the following cells.
 
 
 # Data
-The `cars.csv` file contained on the /data folder, is a common file example in R (called as mtcars.csv). Has been downloaded from: https://vincentarelbundock.github.io/Rdatasets/datasets.html
+- The `cars.csv` file contained on the /data folder, is a common file example in R (called as mtcars.csv). Has been downloaded from: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
-The `UNdata_population_total.csv` file contained on the /data folder has been downloaded from:
+- The `UNdata_population_total.csv` file contained on the /data folder has been downloaded from:
 https://apsportal.ibm.com/exchange/public/entry/view/889ca053a19986a4445839358a91963e
 
-Terms and Conditions of use:
+	Terms and Conditions of use:
 http://data.un.org/Host.aspx?Content=UNdataUse
 
 
